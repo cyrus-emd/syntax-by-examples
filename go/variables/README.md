@@ -1,4 +1,4 @@
-# Variable Naming Rules
+# Naming Rules in Go
 
 - **Variable names in Go must begin with a letter (a-z, A-Z) or an underscore (`_`), and cannot start with a digit.**
 - **Subsequent characters in a variable name can include letters, digits (0-9), and underscores.**
@@ -11,3 +11,4 @@
 - **Short variable names like `i` or `x` are acceptable in limited scopes, such as loop indices, but longer names are preferred for broader contexts.**
 - **Variable names cannot contain spaces or special characters other than underscores.**
 - **Unicode characters are allowed in variable names, enabling the use of non-ASCII letters from various languages.**
+- **Constants, variables and functions adhere to similar naming rules, ensuring consistency across the codebase.**
