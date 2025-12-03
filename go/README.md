@@ -4,6 +4,7 @@
 
 # Table of contents
 
-| **Number** |          **Content**           |   **Level**    |
-|:----------:|:------------------------------:|:--------------:|
-|   **1**    | **[Hello World](hello-world)** | **`Beginner`** |
+| **Number** |            **Content**             |   **Level**    |
+|:----------:|:----------------------------------:|:--------------:|
+|   **1**    |   **[Hello World](hello-world)**   | **`Beginner`** |
+|   **2**    | **[Date and Time](date-and-time)** | **`Beginner`** |
