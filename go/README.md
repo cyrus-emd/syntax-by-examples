@@ -7,8 +7,9 @@
 | **Number** |             **Content**              |   **Level**    |
 |:----------:|:------------------------------------:|:--------------:|
 |   **1**    |    **[Hello World](hello-world)**    | **`Beginner`** |
-|   **2**    |      **[Functions](functions)**      | **`Beginner`** |
-|   **3**    | **[Exported Names](exported-names)** | **`Beginner`** |
-|   **4**    |           **[Math](math)**           | **`Beginner`** |
-|   **5**    |  **[Random Number](random-number)**  | **`Beginner`** |
-|   **6**    |  **[Date and Time](date-and-time)**  | **`Beginner`** |
+|   **2**    |       **[Comments](comments)**       | **`Beginner`** |
+|   **3**    |      **[Functions](functions)**      | **`Beginner`** |
+|   **4**    | **[Exported Names](exported-names)** | **`Beginner`** |
+|   **5**    |           **[Math](math)**           | **`Beginner`** |
+|   **6**    |  **[Random Number](random-number)**  | **`Beginner`** |
+|   **7**    |  **[Date and Time](date-and-time)**  | **`Beginner`** |
