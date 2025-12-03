@@ -8,8 +8,9 @@
 |:----------:|:------------------------------------:|:--------------:|
 |   **1**    |    **[Hello World](hello-world)**    | **`Beginner`** |
 |   **2**    |       **[Comments](comments)**       | **`Beginner`** |
-|   **3**    |      **[Functions](functions)**      | **`Beginner`** |
-|   **4**    | **[Exported Names](exported-names)** | **`Beginner`** |
-|   **5**    |           **[Math](math)**           | **`Beginner`** |
-|   **6**    |  **[Random Number](random-number)**  | **`Beginner`** |
-|   **7**    |  **[Date and Time](date-and-time)**  | **`Beginner`** |
+|   **3**    |      **[Variables](variables)**      | **`Beginner`** |
+|   **4**    |      **[Functions](functions)**      | **`Beginner`** |
+|   **5**    | **[Exported Names](exported-names)** | **`Beginner`** |
+|   **6**    |           **[Math](math)**           | **`Beginner`** |
+|   **7**    |  **[Random Number](random-number)**  | **`Beginner`** |
+|   **8**    |  **[Date and Time](date-and-time)**  | **`Beginner`** |
