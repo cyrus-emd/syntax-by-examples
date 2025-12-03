@@ -1,0 +1,48 @@
+### Golang:
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (uncomment if not vendoring dependencies)
+# vendor/
+
+# Go workspace file (if using workspaces)
+go.work
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+/bin/
+/pkg/
+/tmp/
+
+# Logs
+*.log
+
+# Coverage files
+coverage.txt
+profile.out
+
+# Profiling data
+*.prof
+
+##############################
