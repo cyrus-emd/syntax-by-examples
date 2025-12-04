@@ -4,13 +4,14 @@
 
 # Table of contents
 
-| **Number** |             **Content**              |   **Level**    |
-|:----------:|:------------------------------------:|:--------------:|
-|   **1**    |    **[Hello World](hello-world)**    | **`Beginner`** |
-|   **2**    |       **[Comments](comments)**       | **`Beginner`** |
-|   **3**    |      **[Variables](variables)**      | **`Beginner`** |
-|   **4**    |      **[Functions](functions)**      | **`Beginner`** |
-|   **5**    | **[Exported Names](exported-names)** | **`Beginner`** |
-|   **6**    |           **[Math](math)**           | **`Beginner`** |
-|   **7**    |  **[Random Number](random-number)**  | **`Beginner`** |
-|   **8**    |  **[Date and Time](date-and-time)**  | **`Beginner`** |
+| **Number** |                   **Content**                    |   **Level**    |
+|:----------:|:------------------------------------------------:|:--------------:|
+|   **1**    |          **[Hello World](hello-world)**          | **`Beginner`** |
+|   **2**    |             **[Comments](comments)**             | **`Beginner`** |
+|   **3**    |            **[Variables](variables)**            | **`Beginner`** |
+|   **4**    | **[Primitive Data Types](primitive-data-types)** | **`Beginner`** |
+|   **5**    |            **[Functions](functions)**            | **`Beginner`** |
+|   **6**    |       **[Exported Names](exported-names)**       | **`Beginner`** |
+|   **7**    |                 **[Math](math)**                 | **`Beginner`** |
+|   **8**    |        **[Random Number](random-number)**        | **`Beginner`** |
+|   **9**    |        **[Date and Time](date-and-time)**        | **`Beginner`** |
